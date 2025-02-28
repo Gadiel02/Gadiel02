@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">Software Engineer Student<br><br>📧 Email:<br><br>👥 LinkedIn:</p>
-
-<a href="mailto:trabgadiel22@gmail.com">Envíame un correo</a>
-
+<p align="left">
+  Software Engineer Student<br><br> 
+  📧 Email: <a href="mailto:trabgadiel22@gmail.com">trabgadiel22@gmail.com</a><br><br>
+  👥 LinkedIn: <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">Visit my LinkedIn</a>
+</p>
 
 ###
 
