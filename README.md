@@ -12,6 +12,9 @@
 
 <p align="left">Software Engineer Student<br><br>📧 Email:<br><br>👥 LinkedIn:</p>
 
+<a href="mailto:trabgadiel22@gmail.com">Envíame un correo</a>
+
+
 ###
 
 <h2 align="left">I code with</h2>
